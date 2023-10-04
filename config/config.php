@@ -1,10 +1,10 @@
 <?php 
 session_start();
 // Database
-$host = 'localhost';
-$user = 'root';
-$password = '';
-$dbname = 'danisnack';
+$host = 'sql310.infinityfree.com';
+$user = 'if0_34597665';
+$password = '3L0pBHHBN1vKcM';
+$dbname = 'if0_34597665_danisnack';
 
 $conn = mysqli_connect($host, $user, $password, $dbname);
 
